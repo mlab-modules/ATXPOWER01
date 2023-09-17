@@ -1,0 +1,13 @@
+description: ' Integrate ATX power standards to MLAB modules.'
+github_branch: ATXPOWER01A
+github_description: ' Integrate ATX power standards to MLAB modules.'
+github_repo: ATXPOWER01
+github_url: https://github.com/mlab-modules/ATXPOWER01
+homepage: false
+images:
+- doc/img/ATXPOWER01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: ATXPOWER01
+updated: '2023-09-17T11:43:38.597712+00:00'
